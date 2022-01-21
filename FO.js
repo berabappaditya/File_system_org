@@ -27,9 +27,3 @@ switch (command) {
     console.log("please enter a valid input");
     break;
 }
-
-function helpFn() {
-  console.log(`organize- Organize your files into folders
-  tree - Display a directory tree
-  help - Display this help message`);
-}
